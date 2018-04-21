@@ -1,0 +1,38 @@
+
+        .container {
+            margin-top: 30px;
+            padding-bottom: 30px;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            font-size: 40px;
+        }
+
+        .page-footer {
+            height: 50px;
+            margin-top: 20px;
+        }
+
+        #footer-text {
+            text-align: center;
+            font-size: 15px;
+            padding-bottom: 10px;
+        }
+        
+        .surveyTitle {
+            font-size: 60px;
+            /* color: rgb(123, 74, 236); */
+            font-family: "Times New Roman", Times, serif;
+        }
+
+        .q {
+            color: rgb(147, 106, 243);
+            font-size: 30px;
+        }
+        .aboutYou {
+            color: rgb(147, 106, 243);
+
+        }
+       
+        
