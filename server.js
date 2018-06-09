@@ -21,5 +21,5 @@ require(path.join(__dirname, './app/routing/htmlRoutes'))(app);
 
 // Start listening on PORT
 app.listen(PORT, function() {
-  //console.log('Listening on PORT: ' + PORT);
+  console.log("http://localhost:"+ PORT);
 });
